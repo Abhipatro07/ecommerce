@@ -48,7 +48,6 @@ function AdminUpdateProduct() {
         <div className="updateproducts">
             <form onSubmit={updateItem} action="">
                 <fieldset>
-
                     <label htmlFor="">Category</label>
                     <select required value={category} onChange={(e) => {setCategory(e.target.value)}}>
                         <option>Dress Materials</option>
