@@ -7,6 +7,7 @@ import AdminViewItems from './AdminViewItems'
 import AdminAddProducts from './AdminAddProducts'
 import AdminUpdateProduct from './AdminUpdateProducts'
 
+
 export default function AdminHomePage() {
   return (
     <div className="AdminHomePage">

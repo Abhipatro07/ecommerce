@@ -42,13 +42,13 @@
       "image": "https://m.media-amazon.com/images/I/61sY8BGOyEL._AC_UY327_FMwebp_QL65_.jpg"
     },
     {
-      "id": "202b",
       "category": "Mobile",
-      "rating": "5",
-      "description": "Apple iPhone 13 (128GB) - Starlight",
       "name": "iPhone 13",
       "price": "₹43000",
-      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5",
+      "description": "Apple iPhone 13 (128GB) - Starlight",
+      "id": "202b"
     },
     {
       "category": "Mobile",
